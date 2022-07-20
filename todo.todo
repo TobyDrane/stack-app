@@ -1,5 +1,6 @@
 Project Setup:
   ☐ Database Migration
+    ☐ Improve database migration with database.json file for different environments
   ☐ Initial Layout Components
   ☐ Initial State Management
   ☐ Makefile
