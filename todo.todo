@@ -1,5 +1,5 @@
 Project Setup:
-  ☐ Database Migration
+  ✔ Database Migration @done(22-07-23 13:29)
     ☐ Improve database migration with database.json file for different environments
   ☐ Initial Layout Components
   ☐ Initial State Management
@@ -18,17 +18,18 @@ APIS:
     ☐ Get existing card
 
 Frontend:
-  ☐ Initial Layout & Grid
-    ☐ Responsive list with horizontal scroll
+  ✔ Initial Layout & Grid @done(22-07-24 16:48)
+    ✔ Responsive list with horizontal scroll [See - https://cdn.dribbble.com/userupload/3060590/file/original-d5ab872e06f04ef69bb81944874ed690.png?compress=1&resize=2048x1536&vertical=center] @done(22-07-24 16:48)
   ☐ Router setup
   ☐ Create new project path
     ☐ Design project component
     ☐ Frontend API helper function
   ☐ Initial project frontend
-    ☐ Three different lists
+    ✔ Three different lists @done(22-07-24 16:49)
     ☐ Create new card button
+    ☐ Card List Layout improved heading
   ☐ Create new card
-    ☐ Card component
+    ☐ Card component - Probably grid layout with heading section, content section & footer section
     ☐ Design create card component
     ☐ System to create sub-cards
     ☐ Card actions
